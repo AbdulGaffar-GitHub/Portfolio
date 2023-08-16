@@ -29,8 +29,9 @@
 
 .project_item-cta{
     display: flex;
-    gap: 1rem;
+    /* gap: 1rem; */
     margin-bottom: 0.8rem;
+    justify-content: space-around;
 }
 
 /*====== media Query (Medium Devices) =======*/
